@@ -1,0 +1,3 @@
+rootProject.name = "My JAVA pure Application"
+include ':app'
+include ':lib'
